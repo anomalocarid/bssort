@@ -54,9 +54,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Alice Doll",
         img: "doll.jpg",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -160,9 +160,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Edith",
         img: "edith.jpg",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -185,9 +185,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Florence",
         img: "florence.png",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -202,9 +202,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Gerda",
         img: "gerda.jpg",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -317,9 +317,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Lingierina",
         img: "lingerina.jpg",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -406,9 +406,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Leiden",
         img: "raiden.png",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -439,9 +439,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Shiyo",
         img: "shiyo.jpg",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
@@ -480,9 +480,9 @@ dataSet[dataSetVersion].characterData = [
         name: "Unis",
         img: "unis.png",
         opts: {
-            series: ["bs2"]
-        },
-        dlc3: true
+            series: ["bs2"],
+            dlc3: true
+        }
     },
     
     {
