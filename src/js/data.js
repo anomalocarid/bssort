@@ -20,4 +20,4 @@ let dataSetVersion = '2021-03-02';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = '/src/assets/char/';
+const imageRoot = 'src/assets/char/';
