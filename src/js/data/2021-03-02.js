@@ -28,7 +28,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         name: "Alice (Daughter)",
-        img: "daughter.jpg",
+        img: "daughter.png",
         opts: {
             series: ["bs2"]
         }
@@ -36,7 +36,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Alice (Mother)",
-        img: "mother.jpg",
+        img: "mother.png",
         opts: {
             series: ["bs2"]
         }
@@ -44,7 +44,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Alice (Sister)",
-        img: "sister.jpg",
+        img: "sister.png",
         opts: {
             series: ["bs2"]
         }
@@ -52,7 +52,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Alice Doll",
-        img: "doll.jpg",
+        img: "doll.png",
         opts: {
             series: ["bs2"],
             dlc3: true
@@ -61,7 +61,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Alice Liddel",
-        img: "alice.jpg",
+        img: "alice.png",
         opts: {
             series: ["bs", "bs2"]
         }
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Bandersnatch",
-        img: "bandersnatch.jpg",
+        img: "bandersnatch.png",
         opts: {
             series: ["bs", "bs2"]
         }
@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Blackwell",
-        img: "blackwell.jpg",
+        img: "blackwell.png",
         opts: {
             series: ["bs2"],
             notgirl: true
@@ -158,7 +158,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Edith",
-        img: "edith.jpg",
+        img: "edith.png",
         opts: {
             series: ["bs2"],
             dlc3: true
@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Frog Princess",
-        img: "frog.jpg",
+        img: "frog.png",
         opts: {
             series: ["bs"]
         }
@@ -200,7 +200,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Gerda",
-        img: "gerda.jpg",
+        img: "gerda.png",
         opts: {
             series: ["bs2"],
             dlc3: true
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Kaki",
-        img: "kaki.jpg",
+        img: "kaki.png",
         opts: {
             series: ["bs2"]
         }
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Kuti",
-        img: "kuti.jpg",
+        img: "kuti.png",
         opts: {
             series: ["bs2"]
         }
@@ -307,7 +307,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Leaf",
-        img: "leaf.jpg",
+        img: "leaf.png",
         opts: {
             series: ["bs", "bs2"]
         }
@@ -315,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Lingierina",
-        img: "lingerina.jpg",
+        img: "lingerina.png",
         opts: {
             series: ["bs2"],
             dlc3: true
@@ -332,7 +332,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Mabel",
-        img: "mabel.jpg",
+        img: "mabel.png",
         opts: {
             series: ["bs2"]
         }
@@ -364,7 +364,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Mermaid Princess",
-        img: "mermaid.jpg",
+        img: "mermaid.png",
         opts: {
             series: ["bs"]
         }
@@ -372,7 +372,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Miranda",
-        img: "meryphilia.jpg",
+        img: "meryphilia.png",
         opts: {
             series: ["bs", "bs2"]
         }
@@ -388,7 +388,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Node",
-        img: "node.jpg",
+        img: "node.png",
         opts: {
             series: ["bs2"]
         }
@@ -413,7 +413,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Rapunzel",
-        img: "rapunzel.jpg",
+        img: "rapunzel.png",
         opts: {
             series: ["bs"]
         }
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Red Hood",
-        img: "red.jpg",
+        img: "red.png",
         opts: {
             series: ["rhw", "bs", "bs2"]
         }
@@ -437,7 +437,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Shiyo",
-        img: "shiyo.jpg",
+        img: "shiyo.png",
         opts: {
             series: ["bs2"],
             dlc3: true
@@ -446,7 +446,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Snake God",
-        img: "snake.jpg",
+        img: "snake.png",
         opts: {
             series: ["bs2"]
         }
@@ -454,7 +454,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Snow White",
-        img: "snow.jpg",
+        img: "snow.png",
         opts: {
             series: ["bs"]
         }
@@ -495,7 +495,7 @@ dataSet[dataSetVersion].characterData = [
     
     {
         name: "Wolris",
-        img: "shivuchi.jpg",
+        img: "shivuchi.png",
         opts: {
             series: ["bs2"]
         }
