@@ -231,6 +231,15 @@ dataSet[dataSetVersion].characterData = [
     },
     
     {
+        name: "Grimm",
+        img: "grimm.png",
+        opts: {
+            series: ["bs", "bs2"],
+            notgirl: true
+        }
+    },
+    
+    {
         name: "Jeanne",
         img: "jeanne.png",
         opts: {
