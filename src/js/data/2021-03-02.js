@@ -95,8 +95,7 @@ dataSet[dataSetVersion].characterData = [
         name: "Blackwell",
         img: "blackwell.png",
         opts: {
-            series: ["bs2"],
-            notgirl: true
+            series: ["bs2"]
         }
     },
     
